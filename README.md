@@ -6,6 +6,8 @@ Ce projet vise à sensibiliser et former les utilisateurs au harcèlement sexuel
 
 Le projet se compose de plusieurs fichiers clés, dont des pages HTML, des feuilles de style CSS, des scripts JavaScript, et des ressources telles que des images et des polices.
 
+[![SAFE O TAFF](https://img.youtube.com/vi/1VMbr_k-l1I/0.jpg)](https://www.youtube.com/watch?v=1VMbr_k-l1I "Titre de la vidéo")
+
 ### Pages HTML
 
 - **accueil.html** : La page d'accueil du site qui présente le projet et propose de démarrer la formation en mode solo ou en groupe.
